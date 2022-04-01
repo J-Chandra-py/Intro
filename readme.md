@@ -1,4 +1,4 @@
 - hi my name is jayachandra
 - i"m interested in data science
 - i'm currently learning in python and sql
-- i would like to work on projects related to python
+- i love to work on projects related to python
