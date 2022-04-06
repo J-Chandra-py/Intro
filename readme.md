@@ -1,4 +1,6 @@
-- hi my name is jayachandra
-- i"m interested in data science
-- i'm currently learning in python and sql
-- i love to work on projects related to python
+- Hi my name is Jayachandra
+- 🙂 I'm interested in data science
+- 👨‍💻 I'm currently learning in python and cs50x
+- 🤝I love to collaborate on projects related to python and data science
+- ⛵Love to visit Athens some day.
+- 📫 I'm available on jayachadraterli@gmail.com
