@@ -1,6 +1,6 @@
 - Hi my name is Jayachandra
-- 🙂 I'm interested in data science
-- 👨‍💻 I'm currently learning in python and cs50x
-- 🤝I love to collaborate on projects related to python and data science
+- 🙂 I like to work with data.
+- 👨‍💻 I'm currently a masters student in computational science.
+- 🤝I love to collaborate on projects related to python and data science.
 - ⛵Love to visit Athens some day.
-- 📫 I'm available on jayachadraterli@gmail.com
+- 📫 I'm available on terlijayachandra@gmail.com
